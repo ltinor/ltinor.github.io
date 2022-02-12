@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Vegard&#39;s law</title>
+      <link href="/vegard-s-law/"/>
+      <url>/vegard-s-law/</url>
+      
+        <content type="html"><![CDATA[<p>在 <strong>Neural Network-Assisted Development of High-Entropy Alloy Catalysts: Decoupling Ligand and Coordination Effects</strong> 一文中(doi:10.1016/j.matt.2020.07.029)，创建高熵合金的slab时，使用的晶胞参数，通过<strong>Vegard’s law</strong>得到。</p><p><strong>Vegard’s law</strong>是经验公式，表述如下：</p><p>$$<br>a_{A_{(1-x)}B_x}=(1-x)a_A+a_B<br>$$</p><p>$a_A$：元素$A$的纯金属晶格常数</p><p>$x$：元素B的摩尔比</p><p>拓展到$n$元合金后：</p><p>$$<br>a=\sum x_ia_i<br>$$<br>$i$：合金的某一成分</p><p>$a_i$：元素$i$的纯金属单质晶格常数</p><p>$x_i$：元素$i$的摩尔比</p><p>此处与原文的方法有所出入，原文提及使用的是这些金属晶格常数的平均值（而非加权平均）：</p><p>$$<br>a=\frac{\sum a_i}{n}<br>$$</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Material </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> lattice parameter </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>123</title>
       <link href="/123/"/>
       <url>/123/</url>
